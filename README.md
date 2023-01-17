@@ -2,7 +2,7 @@
 ## I'm a QA Engineer
 
 ### My CV
-[View the CV]
+[View the CV](https://drive.google.com/file/d/1FrKDbwAOuLo483MtwgCoG3anIwwoRVR4/view?usp=sharing)
 
 ### My portfolio
 - [Test Documentation](https://github.com/YuriiSenko/Test-Documentation)
@@ -37,4 +37,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriiSenko&show_icons=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriiSenko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats))
