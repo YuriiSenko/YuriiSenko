@@ -2,7 +2,7 @@
 ## I'm a QA Engineer
 
 ### My CV
-[View the CV](https://drive.google.com/file/d/1FrKDbwAOuLo483MtwgCoG3anIwwoRVR4/view?usp=sharing)
+[View the CV](https://drive.google.com/file/d/1D49vpBB8RJmxXgjZ0_UY69ZrnB3mhtLS/view?usp=sharing)
 
 ### My portfolio
 - [Test Documentation](https://github.com/YuriiSenko/Test-Documentation)
@@ -32,7 +32,7 @@
 
 
 ### Contact me
-[![Header](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0073b1)](https://t.me/yuris603)
+[![Header](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0073b1)](https://www.linkedin.com/in/yurii-senko1/)
 [![Header](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=0073b1)](https://t.me/yuris603)
 
 
